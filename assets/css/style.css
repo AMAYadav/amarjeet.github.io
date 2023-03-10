@@ -299,7 +299,7 @@ section {
 }
 
 .section-bg {
-  background: #f5f8fd;
+  background: linear-gradient(10deg, black, transparent);
 }
 
 .section-title {
