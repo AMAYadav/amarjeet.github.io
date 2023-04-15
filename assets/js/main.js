@@ -305,6 +305,7 @@ function updateDate() {
     "Thu",
     "Fri",
     "Sat",
+
   ];
   // value -> ID of the html element
   const IDCollection = ["day", "daynum", "month", "year"];
